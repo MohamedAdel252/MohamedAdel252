@@ -36,7 +36,7 @@ I don’t just build APIs — I build systems that are ready to become intellige
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### 🎨 Frontend  
+### 🎨 Frontend (For API Integration)  
 <p>
   <img src="https://skillicons.dev/icons?i=angular,ts,html,css,bootstrap" />
 </p>
