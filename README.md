@@ -60,6 +60,16 @@ I don’t just build APIs — I build systems that are ready to become intellige
 
 ---
 
+## 📚 Additional Knowledge  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php" />
+</p>
+
+💡 Familiar with multiple programming languages, with a primary focus on .NET backend development and AI-powered systems.
+
+---
+
 ## 🚀 Featured Project  
 
 ### 🛒 AI-Ready E-Commerce Backend API  
